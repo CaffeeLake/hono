@@ -675,7 +675,7 @@
     "@vitest/coverage-v8": "^4.1.7",
     "bun-types": "^1.2.20",
     "editorconfig-checker": "6.1.1",
-    "esbuild": "^0.27.1",
+    "esbuild": "^0.28.1",
     "eslint": "^9.39.3",
     "jsdom": "22.1.0",
     "msw": "^2.6.0",
@@ -688,7 +688,7 @@
     "undici": "^6.27.0",
     "vite-plugin-fastly-js-compute": "^0.4.2",
     "vitest": "^4.1.9",
-    "wrangler": "4.107.0",
+    "wrangler": "4.112.0",
     "ws": "^8.21.0",
     "zod": "^3.23.8"
   },
